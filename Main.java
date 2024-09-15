@@ -33,8 +33,7 @@ public class Main {
                 points = 2.0;
             } else if (letterGrade.equals("D+")) {
                 points = 10.5;
-            } else if (letterGrade.equals("D")) {
-                points = 10.0;
+        
             } else if (letterGrade.equals("F")) {
                 points = 5.0;
             } else {
