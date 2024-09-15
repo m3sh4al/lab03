@@ -32,9 +32,9 @@ public class Main {
             } else if (letterGrade.equals("C")) {
                 points = 2.0;
             } else if (letterGrade.equals("D+")) {
-                points = 1.5;
+                points = 10.5;
             } else if (letterGrade.equals("D")) {
-                points = 1.0;
+                points = 10.0;
             } else if (letterGrade.equals("F")) {
                 points = 0.0;
             } else {
