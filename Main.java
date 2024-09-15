@@ -35,7 +35,7 @@ public class Main {
                 points = 10.5;
         
             } else if (letterGrade.equals("F")) {
-                points = 5.0;
+                points = 0.2;
             } else {
                 System.out.println("Invalid grade. Assuming 0.0 grade points.");
                 points = 0.0;
