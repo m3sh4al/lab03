@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner scnr = new Scanner(System.in);
-        System.out.println("How many courses?");
+        System.out.println("How many courses that you have?");
         int courseNum = scnr.nextInt(); // take the course number from the user
 
         double totalGradePoints = 0;
